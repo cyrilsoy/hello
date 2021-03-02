@@ -1,7 +1,6 @@
 # Jekyll Crisp Minimal Theme
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-crisp-minimal-theme.svg)](https://badge.fury.io/rb/jekyll-crisp-minimal-theme)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3f945879-2545-4b01-bd38-794e1e4c99f2/deploy-status)](https://app.netlify.com/sites/cyrilsoy-blog/deploys)
 
 Minimal theme of Jekyll from Crisp.
 
