@@ -1,10 +1,10 @@
 # Site settings
-title: Cyril's Blog
-author: Cyril's Blog
+title: 随苑
+author: Cyril Wong
 description: "The stars, my destination."
-url: "https://blog.cyrilsoy.com"
+url: "https://lia.im"
 alt_url:
-  - "https://cyrilsoy.com"
+  - "https://hsce.github.io"
 baseurl: /
 encoding: utf-8
 markdown: kramdown
