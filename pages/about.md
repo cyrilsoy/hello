@@ -8,6 +8,4 @@ permalink: /about.html
 
 > 欢迎！我白天是个搬砖工，晚上就是个有抱负的演员，这是我的博客。我住在南方的City。
 
-![pzh](https://cdn.jsdelivr.net/gh/cyrilsoy/hello-blog@main/static/panzhihua/pzh.jpg)
-
 Since May 20, 2018.
