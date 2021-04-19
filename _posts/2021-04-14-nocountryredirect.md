@@ -52,3 +52,5 @@ THIS EXTENSION ONLY WORKS FOR BLOGSPOT.COM AND GOOGLE.COM, NO OTHER DOMAINS!
  - [How do I change my default search country? Google thinks I am in a different country](https://productforums.google.com/forum/#!topic/chrome/zXRG7-AEgfw)
  - [如何强制 chrome 地址栏使用 google.com 搜索？](https://www.v2ex.com/t/159920)
  - [在Chrome中设置Google搜索为NoCountryRedirect](https://www.jibing57.com/2018/03/15/how-to-set-chrome-to-use-google-with-NoCountryRedirect/)
+
+Enjoy
