@@ -37,13 +37,13 @@ GitHub 上新建一个 repo，并只需保留以下文件上传到 `main` ，同
 
 具体操作：
 
-![Github-Actions](https://cdn.jsdelivr.net/gh/hsce/hsce.github.io@main/static/hugo-github-actions/tokens-1.png)
+![Github-Actions](https://cdn.jsdelivr.net/gh/ailsio/hello-blog@main/static/hugo-github-actions/tokens-1.png)
 
-![Github-Actions](https://cdn.jsdelivr.net/gh/hsce/hsce.github.io@main/static/hugo-github-actions/tokens-2.png)
+![Github-Actions](https://cdn.jsdelivr.net/gh/ailsio/hello-blog@main/static/hugo-github-actions/tokens-2.png)
 
  - 点 https://github.com/settings/tokens 新建一个，勾选 repo 和 workflow ,暂存；
 
-![Github-Actions](https://cdn.jsdelivr.net/gh/hsce/hsce.github.io@main/static/hugo-github-actions/secrets.jpeg)
+![Github-Actions](https://cdn.jsdelivr.net/gh/ailsio/hello-blog@main/static/hugo-github-actions/secrets.jpeg)
 
  - 进项目 settings/secrets 新建标题为 personal_token ，内容是刚创建的 tokens ;
 

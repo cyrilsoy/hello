@@ -24,16 +24,16 @@ permalink: /post/nocountryredirect.html
 1. 地址栏输入`chrome://settings/`进入Chrome设置页面
 2. 找到“搜索引擎”项，点击“管理搜索引擎”
 
-![Nginx](https://cdn.jsdelivr.net/gh/hsce/hsce.github.io@main/static/nocountryredirect/ncr-1.png)
+![Nginx](https://cdn.jsdelivr.net/gh/ailsio/hello-blog@main/static/nocountryredirect/ncr-1.png)
 
 3. 在“管理搜索引擎”页面，点击的“添加”按钮。
 4. 在“添加搜索引擎”页面中，搜索引擎和关键字一栏设定为自己能识别的名字，此处命名为“Google NCR”，在网址一栏中填入”https://www.google.com/search?q=%s”
 
-![Nginx](https://cdn.jsdelivr.net/gh/hsce/hsce.github.io@main/static/nocountryredirect/ncr-2.png)
+![Nginx](https://cdn.jsdelivr.net/gh/ailsio/hello-blog@main/static/nocountryredirect/ncr-2.png)
 
 5. 再设置刚添加的“Google NCR”条目为默认搜索引擎
 
-![Nginx](https://cdn.jsdelivr.net/gh/hsce/hsce.github.io@main/static/nocountryredirect/ncr-3.png)
+![Nginx](https://cdn.jsdelivr.net/gh/ailsio/hello-blog@main/static/nocountryredirect/ncr-3.png)
 
 6. 之后在地址栏直接输入要搜索的内容时候，就会使用Google主站`https://www.google.com`来进行搜索了。
 

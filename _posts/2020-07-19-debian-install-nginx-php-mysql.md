@@ -243,7 +243,7 @@ EOF
 
 效果如下
 
-![Debian Install LEMP PHPINFO](https://cdn.jsdelivr.net/gh/hsce/hsce.github.io@main/static/debian-install-nginx-php-mysql/debian-lemp-phpinfo.png)
+![Debian Install LEMP PHPINFO](https://cdn.jsdelivr.net/gh/ailsio/hello-blog@main/static/debian-install-nginx-php-mysql/debian-lemp-phpinfo.png)
 
 ## 安装 MySQL 5.7.x / Percona Server 5.7.x
 
@@ -300,7 +300,7 @@ root@debian9 ~ # mysql -V
 mysql  Ver 14.14 Distrib 5.7.18-16, for debian-linux-gnu (x86_64) using  7.0
 ```
 
-安装完毕后强烈推荐使用 `sudo mysql_secure_installation` 命令做一次安全设置，详见 [Ubuntu Server 16.04.x (Xenial Xerus) 安装 LEMP / LNMP 教程](https://lia.im/ubuntu-server-16-04-install-nginx-php-mysql.html) 里面的说明，同样其他的配置都是一样的
+安装完毕后强烈推荐使用 `sudo mysql_secure_installation` 命令做一次安全设置，详见 [Ubuntu Server 16.04.x (Xenial Xerus) 安装 LEMP / LNMP 教程](https://ails.io/ubuntu-server-16-04-install-nginx-php-mysql.html) 里面的说明，同样其他的配置都是一样的
 
 ### 创建数据库并测试
 
