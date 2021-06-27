@@ -37,21 +37,21 @@ API密钥管理 - 新建密钥
 
 > 有热心网友在本文下留言测试过多个区域,除了香港成功,其他北京,上海,广州,成都均失败或者不支持,所以还是建议此处区域选择香港!
 
-![](/static/onemanager/onemanager-2.jpg)
+![](static/onemanager/onemanager-2.jpg)
 
 填写函数名
 运行环境选择`Php 7.2`
 选择空白函数
 下一步
 
-![](/static/onemanager/onemanager-3.jpg)
+![](static/onemanager/onemanager-3.jpg)
 
 拉到下方`高级配置`
 环境变量中分别添加上文获取的`SecretId`和`SecretKey`和Region
 
 完成
 
-![](/static/onemanager/onemanager-4.jpg)
+![](static/onemanager/onemanager-4.jpg)
 
 ### 上传函数代码
 
@@ -59,7 +59,7 @@ API密钥管理 - 新建密钥
 提交方法 - 本地上传文件夹
 选择刚才解压缩的文件夹保存
 
-![](/static/onemanager/onemanager-5.jpg)
+![](static/onemanager/onemanager-5.jpg)
 
 ### 触发方式
 
@@ -69,11 +69,11 @@ API密钥管理 - 新建密钥
  - `勾选` 启用集成响应
  - 其他保持默认并保存
 
-![](/static/onemanager/onemanager-6.jpg)
+![](static/onemanager/onemanager-6.jpg)
 
 生成访问路径
 
-![](/static/onemanager/onemanager-7.jpg)
+![](static/onemanager/onemanager-7.jpg)
 
 ## 部署网盘
 
@@ -81,15 +81,15 @@ API密钥管理 - 新建密钥
 
 访问生成的访问路径
 
-![](/static/onemanager/onemanager-8.jpg)
+![](static/onemanager/onemanager-8.jpg)
 
 选择你的OneDrive类型
 
-![](/static/onemanager/onemanager-9.jpg)
+![](static/onemanager/onemanager-9.jpg)
 
 确认后会弹出登陆OneDrive页面,登陆后等待跳转回即可成功链接.
 
-![](/static/onemanager/onemanager-10.jpg)
+![](static/onemanager/onemanager-10.jpg)
 
 ## 配置网盘
 
@@ -114,7 +114,7 @@ API密钥管理 - 新建密钥
 
 > 需加密的文件夹中,创建或上传.password文件,并将密码填写至.password文件内.
 
-![](/static/onemanager/onemanager-11.jpg)
+![](static/onemanager/onemanager-11.jpg)
 
 ## 配置域名
 
@@ -128,11 +128,11 @@ CNAME参考
 
 触发方式 - 点击API服务名
 
-![](/static/onemanager/onemanager-12.jpg)
+![](static/onemanager/onemanager-12.jpg)
 
 自定义域名 - 新建
 
-![](/static/onemanager/onemanager-13.jpg)
+![](static/onemanager/onemanager-13.jpg)
 
 新增自定义域名
 
@@ -141,39 +141,39 @@ CNAME参考
  - 选择证书,如没有可以`点击前往`免费申请.
  - 路径映射选择自定义路径,值为`/`和`发布`.
 
-![](/static/onemanager/onemanager-14.jpg)
+![](static/onemanager/onemanager-14.jpg)
 
 管理API - 点击编辑
 
-![](/static/onemanager/onemanager-15.jpg)
+![](static/onemanager/onemanager-15.jpg)
 
 路径改为`/`根目录
 下一步
 
-![](/static/onemanager/onemanager-16.jpg)
+![](static/onemanager/onemanager-16.jpg)
 
 确保启用`响应集成`
 下一步
 
-![](/static/onemanager/onemanager-17.jpg)
+![](static/onemanager/onemanager-17.jpg)
 
 返回类型选择`HTML`
 完成
 
-![](/static/onemanager/onemanager-18.jpg)
+![](static/onemanager/onemanager-18.jpg)
 
 前往发布服务
 
-![](/static/onemanager/onemanager-19.jpg)
+![](static/onemanager/onemanager-19.jpg)
 
 点击发布
 
-![](/static/onemanager/onemanager-20.jpg)
+![](static/onemanager/onemanager-20.jpg)
 
 发布环境选择`发布`
 备注自定义填写后提交
 
-![](/static/onemanager/onemanager-21.jpg)
+![](static/onemanager/onemanager-21.jpg)
 
 ### 配置强制跳转HTTPS
 
@@ -193,13 +193,13 @@ CNAME参考
 
 >head标签大约在600多行,但随着OneDrive_SCF程序的更新,head所在行数可能有所变化,参照下图查找即可.
 
-![](/static/onemanager/onemanager-22.jpg)
+![](static/onemanager/onemanager-22.jpg)
 
 ## 部署完成
 
 至此完成以上全部流程,现在可以使用域名来访问网盘了.
 
-![](/static/onemanager/onemanager-10.jpg)
+![](static/onemanager/onemanager-10.jpg)
 
 ## 结语
 

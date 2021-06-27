@@ -243,7 +243,7 @@ EOF
 
 效果如下
 
-![Debian Install LEMP PHPINFO](/static/debian-install-nginx-php-mysql/debian-lemp-phpinfo.png)
+![Debian Install LEMP PHPINFO](static/debian-install-nginx-php-mysql/debian-lemp-phpinfo.png)
 
 ## 安装 MySQL 5.7.x / Percona Server 5.7.x
 
