@@ -19,7 +19,7 @@ OneDrive的网盘程序介绍过很多款,但是都是需要VPS服务器来部�
 API密钥管理 - 新建密钥
 获取`SecretId`和`SecretKey`
 
-![](./static/onemanager/onemanager-1.jpg)
+![](static/onemanager/onemanager-1.jpg)
 
 ## 获取云函数代码
 
