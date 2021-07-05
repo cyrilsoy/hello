@@ -1,10 +1,10 @@
 # Site settings
-title: 随苑
-author: 随苑
+title: H&W
+author: H&W
 description: "The stars, my destination."
-url: "https://lia.im"
+url: "https://ails.io"
 alt_url:
-  - "https://oouo.github.io"
+  - "https://ailsio.github.io"
 baseurl: /
 encoding: utf-8
 markdown: kramdown
