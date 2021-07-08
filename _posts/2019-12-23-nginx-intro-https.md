@@ -4,7 +4,7 @@ title: Nginx 配置 HTTPS A+
 permalink: /post/nginx-intro-https.html
 ---
 
-![Nginx](static/nginx-intro-https/nginx-intro-https-1.png)
+![Nginx](https://cdn.jsdelivr.net/gh/ailsio/hello-blog@main/static/nginx-intro-https/nginx-intro-https-1.png)
 
 <!--more-->
 

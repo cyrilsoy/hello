@@ -64,7 +64,7 @@ dpkg -i mysql-apt-config_0.8.10-1_all.deb
 
 这里会弹出窗口问你要安装的版本和一些其他的东西，这里我直接默认OK：
 
-![debian9-install-lnmp](static/debian9-install-lnmp/debian9-install-lnmp-1.png)
+![debian9-install-lnmp](https://cdn.jsdelivr.net/gh/ailsio/hello-blog@main/static/debian9-install-lnmp/debian9-install-lnmp-1.png)
 
 完事之后我们直接apt安装：
 
@@ -75,11 +75,11 @@ apt-get install mysql-server
 
 然后会提示让你设置ROOT密码：
 
-![debian9-install-lnmp](static/debian9-install-lnmp/debian9-install-lnmp-2.png)
+![debian9-install-lnmp](https://cdn.jsdelivr.net/gh/ailsio/hello-blog@main/static/debian9-install-lnmp/debian9-install-lnmp-2.png)
 
 接着到了非常关键的地方了，这个地方一定要选择如下图圈起来的选项：
 
-![debian9-install-lnmp](static/debian9-install-lnmp/debian9-install-lnmp-3.png)
+![debian9-install-lnmp](https://cdn.jsdelivr.net/gh/ailsio/hello-blog@main/static/debian9-install-lnmp/debian9-install-lnmp-3.png)
 
 注：8.0版本采用了新的密码加密机制，但这个机制目前太过于“前卫”，导致很多程序目前都不兼容，所以这块我们只能委曲求全选择兼容旧版。
 
@@ -111,7 +111,7 @@ user  root;
 
 如图所示：
 
-![debian9-install-lnmp](static/debian9-install-lnmp/debian9-install-lnmp-4.png)
+![debian9-install-lnmp](https://cdn.jsdelivr.net/gh/ailsio/hello-blog@main/static/debian9-install-lnmp/debian9-install-lnmp-4.png)
 
 现在来测试一下我们搭建的这个环境是否正常，是否可用！
 

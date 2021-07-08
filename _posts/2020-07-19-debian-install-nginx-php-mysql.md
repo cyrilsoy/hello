@@ -239,11 +239,11 @@ sudo cat >> /var/www/example.com/phpinfo.php << EOF
 EOF
 ```
 
-好了，此时在浏览器输入 `http://example.com/phpinfo.php`，如果看到经典的 `phpinfo` 页面则说明安装成功，如果不成功，请仔细对比步骤查找哪里出错或在烧饼博客下方留言
+好了，此时在浏览器输入 `http://example.com/phpinfo.php` ，如果看到经典的 `phpinfo` 页面则说明安装成功，如果不成功，请仔细对比步骤查找哪里出错或在烧饼博客下方留言
 
 效果如下
 
-![Debian Install LEMP PHPINFO](static/debian-install-nginx-php-mysql/debian-lemp-phpinfo.png)
+![Debian Install LEMP PHPINFO](https://cdn.jsdelivr.net/gh/ailsio/hello-blog@main/static/debian-install-nginx-php-mysql/debian-lemp-phpinfo.png)
 
 ## 安装 MySQL 5.7.x / Percona Server 5.7.x
 
